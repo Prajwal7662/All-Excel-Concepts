@@ -1,6 +1,5 @@
 # 📊 Excel Mastery – Complete Guide for GitHub Portfolio
 
-> A **comprehensive, well-structured Excel reference** covering **Basic to Advanced Excel concepts with examples**, designed for **Data Analyst / Business Analyst portfolios and interviews**.
 
 ---
 
@@ -214,13 +213,3 @@ End Sub
 * Explain IF vs IFS
 
 ---
-
-## 📌 Why This Project Matters
-
-✔ Demonstrates **job-ready Excel skills**
-✔ Shows **business-focused problem solving**
-✔ Strong addition to **Data Analyst GitHub portfolio**
-
----
-
-⭐ If you found this useful, feel free to **star this repository** and use it for learning or interviews.
