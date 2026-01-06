@@ -1,4 +1,4 @@
-# 📊 Excel Mastery – Complete Guide for GitHub Portfolio
+# 📊 Excel Mastery 
 
 
 ---
