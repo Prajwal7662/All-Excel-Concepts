@@ -5,8 +5,6 @@
 
 ## 🔹 About This Repository
 
-This repository demonstrates **strong hands-on knowledge of Microsoft Excel**, including:
-
 * Data cleaning & preparation
 * Business calculations
 * Analysis using formulas & Pivot Tables
